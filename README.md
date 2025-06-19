@@ -20,12 +20,6 @@ A modern, responsive customer service chatbot for e-commerce order status and ca
 
 **Repository:** [https://github.com/Iamshubham2022/AIagent](https://github.com/Iamshubham2022/AIagent)
 
-### Screenshots
-
-![Main UI](./assets/demo-1.png)
-![Demo Instructions](./assets/demo-2.png)
-
-> _Screenshots show the main interface and demo instructions. For a live experience, visit the [demo site](https://a-iagent-five.vercel.app/)._
 
 ## Standard Operating Procedure (SOP) Summary
 
