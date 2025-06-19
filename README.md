@@ -1,5 +1,8 @@
 # E-commerce Pre-Sales Conversational AI Agent
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue?logo=vercel)](https://a-iagent-five.vercel.app/)  
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Iamshubham2022/AIagent)
+
 A modern, responsive customer service chatbot for e-commerce order status and cancellation support. Built with React, TypeScript, Vite, and Tailwind CSS.
 
 ## Features
@@ -13,7 +16,16 @@ A modern, responsive customer service chatbot for e-commerce order status and ca
 
 ## Demo
 
-![screenshot](demo-screenshot.png)
+**Live Demo:** [https://a-iagent-five.vercel.app/](https://a-iagent-five.vercel.app/)
+
+**Repository:** [https://github.com/Iamshubham2022/AIagent](https://github.com/Iamshubham2022/AIagent)
+
+### Screenshots
+
+![Main UI](./assets/demo-1.png)
+![Demo Instructions](./assets/demo-2.png)
+
+> _Screenshots show the main interface and demo instructions. For a live experience, visit the [demo site](https://a-iagent-five.vercel.app/)._
 
 ## Standard Operating Procedure (SOP) Summary
 
@@ -55,8 +67,8 @@ A modern, responsive customer service chatbot for e-commerce order status and ca
 
 ```bash
 # Clone the repository
-https://github.com/your-username/aiagent-customer-service.git
-cd aiagent-customer-service
+git clone https://github.com/Iamshubham2022/AIagent.git
+cd AIagent
 
 # Install dependencies
 npm install
